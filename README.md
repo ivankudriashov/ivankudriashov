@@ -1,16 +1,16 @@
-### Hi there 👋
+### Привет! Меня зовут Иван и я начинающий веб-разработчик 👋
 
-<!--
-**ivankudriashov/ivankudriashov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Хочу развиваться в сфере веб-разработки
+- Учу JavaScript и связанные технологии
+- Стремлюсь к работе с опытными разработчиками
 
-Here are some ideas to get you started:
+**Стек:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="20" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
+<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+**Моя статистика:**
+
+[![Kudriashov's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivankudriashov)](https://github.com/ivankudriashov/github-readme-stats)
